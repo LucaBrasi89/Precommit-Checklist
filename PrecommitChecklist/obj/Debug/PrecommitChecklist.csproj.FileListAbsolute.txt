@@ -1,0 +1,14 @@
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\MainWindow.g.cs
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\App.g.cs
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\PrecommitChecklist_MarkupCompile.cache
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\PrecommitChecklist_MarkupCompile.lref
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\bin\Debug\PrecommitChecklist.exe.config
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\bin\Debug\PrecommitChecklist.exe
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\bin\Debug\PrecommitChecklist.pdb
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\MainWindow.baml
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\PrecommitChecklist.g.resources
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\PrecommitChecklist.Properties.Resources.resources
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\PrecommitChecklist.csproj.GenerateResource.cache
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\PrecommitChecklist.exe
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\PrecommitChecklist.pdb
+Z:\tmp\source\PrecommitChecklist\PrecommitChecklist\obj\Debug\PrecommitChecklist.csprojAssemblyReference.cache
